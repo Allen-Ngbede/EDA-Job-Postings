@@ -25,9 +25,10 @@ By addressing these questions, I aim to help professionals and aspiring data pro
 
 ## Methodology & Process
 #### Data Collection and Preparation
-I gathered salary data across different roles in the data profession, including Data Analysts, Business Analysts, and Data Scientists.
-I collected skill requirements and market demand metrics to understand trends.
-The data was cleaned, structured, and analyzed for actionable insights.
+#### Data Source
+The dataset used in this project was obtained from the Hugging Face Datasets repository, titled "data_jobs" by Luke Barousse. While the original dataset includes job postings from various countries, I filtered it specifically for job postings in Nigeria to focus on trends and insights relevant to the Nigerian job market.
+
+All credit for the dataset goes to the original creator, and I extend my gratitude to Hugging Face for making it accessible for analysis.
 #### Analysis Approach
 - Box plots: Used to analyze salary distributions and identify high-paying roles.
 - Parallel bar charts: Implemented to compare skill demands across roles.
